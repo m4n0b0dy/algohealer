@@ -1,0 +1,6 @@
+{
+  "accounts" :
+          [
+            {"site": "instagram", "name": "natgeo", "category" : "nature"}
+          ]
+}

@@ -1,0 +1,30 @@
+[project]
+name = "algohealer"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "helpful-ml",email = "helpful.ml@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.9,<3.14"
+dependencies = [
+    "playwright (>=1.49.1,<2.0.0)",
+    "click",
+    "questionary (>=2.1.0,<3.0.0)",
+    "rich (>=13.9.4,<14.0.0)",
+    "pydantic (>=2.10.6,<3.0.0)",
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+packages = [
+    { include = "algohealer" }
+]
+
+
+[project.scripts]
+algohealer = "algohealer.cli:cli"

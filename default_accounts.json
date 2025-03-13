@@ -1,0 +1,244 @@
+{
+  "accounts": [
+    {
+      "name": "ExpertVagabond",
+      "site": "instagram",
+      "category": "travel"
+    },
+    {
+      "name": "NomadicMatt",
+      "site": "instagram",
+      "category": "travel"
+    },
+    {
+      "name": "SmittenKitchen",
+      "site": "instagram",
+      "category": "food"
+    },
+    {
+      "name": "MinimalistBaker",
+      "site": "instagram",
+      "category": "food"
+    },
+    {
+      "name": "YogaWithAdriene",
+      "site": "instagram",
+      "category": "health"
+    },
+    {
+      "name": "Kayla_Itsines",
+      "site": "instagram",
+      "category": "health"
+    },
+    {
+      "name": "natgeo",
+      "site": "instagram",
+      "category": "nature"
+    },
+    {
+      "name": "EarthPix",
+      "site": "instagram",
+      "category": "nature"
+    },
+    {
+      "name": "MKBHD",
+      "site": "instagram",
+      "category": "technology"
+    },
+    {
+      "name": "TechCrunch",
+      "site": "instagram",
+      "category": "technology"
+    },
+    {
+      "name": "TheFinancialDiet",
+      "site": "instagram",
+      "category": "finance"
+    },
+    {
+      "name": "HumphreyTalks",
+      "site": "instagram",
+      "category": "finance"
+    },
+    {
+      "name": "TheBucketListFamily",
+      "site": "tiktok",
+      "category": "travel"
+    },
+    {
+      "name": "DrewBinsky",
+      "site": "tiktok",
+      "category": "travel"
+    },
+    {
+      "name": "Newt",
+      "site": "tiktok",
+      "category": "food"
+    },
+    {
+      "name": "CookingWithShereen",
+      "site": "tiktok",
+      "category": "food"
+    },
+    {
+      "name": "Blogilates",
+      "site": "tiktok",
+      "category": "health"
+    },
+    {
+      "name": "DoctorMike",
+      "site": "tiktok",
+      "category": "health"
+    },
+    {
+      "name": "NatureIsLit",
+      "site": "tiktok",
+      "category": "nature"
+    },
+    {
+      "name": "OurPlanetDaily",
+      "site": "tiktok",
+      "category": "nature"
+    },
+    {
+      "name": "TechVision",
+      "site": "tiktok",
+      "category": "technology"
+    },
+    {
+      "name": "UnboxTherapy",
+      "site": "tiktok",
+      "category": "technology"
+    },
+    {
+      "name": "GrahamStephan",
+      "site": "tiktok",
+      "category": "finance"
+    },
+    {
+      "name": "TheFinanceGuy",
+      "site": "tiktok",
+      "category": "finance"
+    },
+    {
+      "name": "KaraAndNate",
+      "site": "youtube",
+      "category": "travel"
+    },
+    {
+      "name": "MarkWiens",
+      "site": "youtube",
+      "category": "travel"
+    },
+    {
+      "name": "BingingWithBabish",
+      "site": "youtube",
+      "category": "food"
+    },
+    {
+      "name": "Tasty",
+      "site": "youtube",
+      "category": "food"
+    },
+    {
+      "name": "FitnessBlender",
+      "site": "youtube",
+      "category": "health"
+    },
+    {
+      "name": "JeffNippard",
+      "site": "youtube",
+      "category": "health"
+    },
+    {
+      "name": "DavidAttenborough",
+      "site": "youtube",
+      "category": "nature"
+    },
+    {
+      "name": "BraveWilderness",
+      "site": "youtube",
+      "category": "nature"
+    },
+    {
+      "name": "LinusTechTips",
+      "site": "youtube",
+      "category": "technology"
+    },
+    {
+      "name": "MarquesBrownlee",
+      "site": "youtube",
+      "category": "technology"
+    },
+    {
+      "name": "AndreiJikh",
+      "site": "youtube",
+      "category": "finance"
+    },
+    {
+      "name": "FinancialEducation",
+      "site": "youtube",
+      "category": "finance"
+    },
+    {
+      "name": "RickSteves",
+      "site": "twitter",
+      "category": "travel"
+    },
+    {
+      "name": "ThePointsGuy",
+      "site": "twitter",
+      "category": "travel"
+    },
+    {
+      "name": "AltonBrown",
+      "site": "twitter",
+      "category": "food"
+    },
+    {
+      "name": "Nigella_Lawson",
+      "site": "twitter",
+      "category": "food"
+    },
+    {
+      "name": "DrAseemMalhotra",
+      "site": "twitter",
+      "category": "health"
+    },
+    {
+      "name": "DrEricDing",
+      "site": "twitter",
+      "category": "health"
+    },
+    {
+      "name": "BBCNature",
+      "site": "twitter",
+      "category": "nature"
+    },
+    {
+      "name": "Nature",
+      "site": "twitter",
+      "category": "nature"
+    },
+    {
+      "name": "Techmeme",
+      "site": "twitter",
+      "category": "technology"
+    },
+    {
+      "name": "verge",
+      "site": "twitter",
+      "category": "technology"
+    },
+    {
+      "name": "SuzeOrmanShow",
+      "site": "twitter",
+      "category": "finance"
+    },
+    {
+      "name": "DaveRamsey",
+      "site": "twitter",
+      "category": "finance"
+    }
+  ]
+}
