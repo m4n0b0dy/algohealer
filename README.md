@@ -4,7 +4,7 @@
   <img src="logo.png" alt="AlgoHealer Logo" width="150" style="background: none;"/>
 </p>
 
-**AlgoHealer CLI** helps you take control of your digital space by reshaping social media algorithms toward healthier, more meaningful content. Using automated headless browsing powered by Playwright, it assists in guiding platform recommendations on Instagram, YouTube, TikTok, and Twitter toward positive and mindful experiences.
+**AlgoHealer CLI** helps you take control of your digital space by reshaping social media algorithms toward healthier, more meaningful content. Using automated headless browsing powered by Playwright, it assists in guiding platform recommendations on Instagram (YouTube, TikTok, and Twitter to come later) toward positive and mindful experiences.
 
 ---
 
