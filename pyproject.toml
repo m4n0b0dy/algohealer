@@ -2,9 +2,8 @@
 name = "algohealer"
 version = "0.1.0"
 description = ""
-authors = [
-    {name = "helpful-ml",email = "helpful.ml@gmail.com"}
-]
+authors = []
+
 readme = "README.md"
 requires-python = ">=3.9,<3.14"
 dependencies = [
